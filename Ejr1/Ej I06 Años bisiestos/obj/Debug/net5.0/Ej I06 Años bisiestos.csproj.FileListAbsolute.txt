@@ -1,0 +1,16 @@
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I06 Años bisiestos\bin\Debug\net5.0\Ej I06 Años bisiestos.exe
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I06 Años bisiestos\bin\Debug\net5.0\Ej I06 Años bisiestos.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I06 Años bisiestos\bin\Debug\net5.0\Ej I06 Años bisiestos.runtimeconfig.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I06 Años bisiestos\bin\Debug\net5.0\Ej I06 Años bisiestos.runtimeconfig.dev.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I06 Años bisiestos\bin\Debug\net5.0\Ej I06 Años bisiestos.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I06 Años bisiestos\bin\Debug\net5.0\Ej I06 Años bisiestos.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I06 Años bisiestos\obj\Debug\net5.0\Ej I06 Años bisiestos.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I06 Años bisiestos\obj\Debug\net5.0\Ej I06 Años bisiestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I06 Años bisiestos\obj\Debug\net5.0\Ej I06 Años bisiestos.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I06 Años bisiestos\obj\Debug\net5.0\Ej I06 Años bisiestos.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I06 Años bisiestos\obj\Debug\net5.0\Ej I06 Años bisiestos.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I06 Años bisiestos\obj\Debug\net5.0\Ej I06 Años bisiestos.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I06 Años bisiestos\obj\Debug\net5.0\refint\Ej I06 Años bisiestos.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I06 Años bisiestos\obj\Debug\net5.0\Ej I06 Años bisiestos.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I06 Años bisiestos\obj\Debug\net5.0\Ej I06 Años bisiestos.genruntimeconfig.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I06 Años bisiestos\obj\Debug\net5.0\ref\Ej I06 Años bisiestos.dll

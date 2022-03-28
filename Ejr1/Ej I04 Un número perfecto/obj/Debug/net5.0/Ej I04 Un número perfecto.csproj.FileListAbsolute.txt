@@ -1,0 +1,16 @@
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I04 Un número perfecto\bin\Debug\net5.0\Ej I04 Un número perfecto.exe
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I04 Un número perfecto\bin\Debug\net5.0\Ej I04 Un número perfecto.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I04 Un número perfecto\bin\Debug\net5.0\Ej I04 Un número perfecto.runtimeconfig.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I04 Un número perfecto\bin\Debug\net5.0\Ej I04 Un número perfecto.runtimeconfig.dev.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I04 Un número perfecto\bin\Debug\net5.0\Ej I04 Un número perfecto.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I04 Un número perfecto\bin\Debug\net5.0\Ej I04 Un número perfecto.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I04 Un número perfecto\obj\Debug\net5.0\Ej I04 Un número perfecto.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I04 Un número perfecto\obj\Debug\net5.0\Ej I04 Un número perfecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I04 Un número perfecto\obj\Debug\net5.0\Ej I04 Un número perfecto.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I04 Un número perfecto\obj\Debug\net5.0\Ej I04 Un número perfecto.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I04 Un número perfecto\obj\Debug\net5.0\Ej I04 Un número perfecto.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I04 Un número perfecto\obj\Debug\net5.0\Ej I04 Un número perfecto.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I04 Un número perfecto\obj\Debug\net5.0\refint\Ej I04 Un número perfecto.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I04 Un número perfecto\obj\Debug\net5.0\Ej I04 Un número perfecto.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I04 Un número perfecto\obj\Debug\net5.0\Ej I04 Un número perfecto.genruntimeconfig.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ej I04 Un número perfecto\obj\Debug\net5.0\ref\Ej I04 Un número perfecto.dll

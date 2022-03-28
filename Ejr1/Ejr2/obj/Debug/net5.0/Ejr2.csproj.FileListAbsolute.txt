@@ -1,0 +1,16 @@
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ejr2\bin\Debug\net5.0\Ejr2.exe
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ejr2\bin\Debug\net5.0\Ejr2.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ejr2\bin\Debug\net5.0\Ejr2.runtimeconfig.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ejr2\bin\Debug\net5.0\Ejr2.runtimeconfig.dev.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ejr2\bin\Debug\net5.0\Ejr2.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ejr2\bin\Debug\net5.0\Ejr2.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ejr2\obj\Debug\net5.0\Ejr2.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ejr2\obj\Debug\net5.0\Ejr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ejr2\obj\Debug\net5.0\Ejr2.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ejr2\obj\Debug\net5.0\Ejr2.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ejr2\obj\Debug\net5.0\Ejr2.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ejr2\obj\Debug\net5.0\Ejr2.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ejr2\obj\Debug\net5.0\refint\Ejr2.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ejr2\obj\Debug\net5.0\Ejr2.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ejr2\obj\Debug\net5.0\Ejr2.genruntimeconfig.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ejer\Ejr1\Ejr2\obj\Debug\net5.0\ref\Ejr2.dll
