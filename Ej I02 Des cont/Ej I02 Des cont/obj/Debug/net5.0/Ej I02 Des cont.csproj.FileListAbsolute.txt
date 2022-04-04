@@ -14,3 +14,6 @@ C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 
 C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\obj\Debug\net5.0\Ej I02 Des cont.pdb
 C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\obj\Debug\net5.0\Ej I02 Des cont.genruntimeconfig.cache
 C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\obj\Debug\net5.0\ref\Ej I02 Des cont.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\obj\Debug\net5.0\Ej I02 Des cont.csproj.CopyComplete

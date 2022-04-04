@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Ej I02 Des cont/1.0.0": {
-        "dependencies": {
-          "Biblioteca": "1.0.0"
-        },
-        "runtime": {
-          "Ej I02 Des cont.dll": {}
-        }
-      },
       "Biblioteca/1.0.0": {
         "runtime": {
           "Biblioteca.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "Ej I02 Des cont/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Biblioteca/1.0.0": {
       "type": "project",
       "serviceable": false,
