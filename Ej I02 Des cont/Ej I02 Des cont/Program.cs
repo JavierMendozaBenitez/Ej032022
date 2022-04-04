@@ -6,7 +6,6 @@ using Biblioteca;
 Crear la clase Validador y el método estático ValidarRespuesta, que validará el ingreso de respuestas.
 
 El método devolverá un valor de tipo booleano, TRUE si se ingresó una 'S' y FALSE si se ingresó cualquier otro valor.*/
-
 namespace Ej_I02_Des_cont
 {
     internal class Program
