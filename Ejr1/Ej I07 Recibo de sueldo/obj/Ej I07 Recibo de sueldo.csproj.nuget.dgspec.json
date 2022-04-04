@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ej I07 Recibo de sueldo\\Ej I07 Recibo de sueldo.csproj": {}
+    "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ej I07 Recibo de sueldo\\Ej I07 Recibo de sueldo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ej I07 Recibo de sueldo\\Ej I07 Recibo de sueldo.csproj": {
+    "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ej I07 Recibo de sueldo\\Ej I07 Recibo de sueldo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ej I07 Recibo de sueldo\\Ej I07 Recibo de sueldo.csproj",
+        "projectUniqueName": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ej I07 Recibo de sueldo\\Ej I07 Recibo de sueldo.csproj",
         "projectName": "Ej I07 Recibo de sueldo",
-        "projectPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ej I07 Recibo de sueldo\\Ej I07 Recibo de sueldo.csproj",
+        "projectPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ej I07 Recibo de sueldo\\Ej I07 Recibo de sueldo.csproj",
         "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ej I07 Recibo de sueldo\\obj\\",
+        "outputPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ej I07 Recibo de sueldo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\bin\Debug\net5.0\Ej I01 préstamo.exe
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\bin\Debug\net5.0\Ej I01 préstamo.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\bin\Debug\net5.0\Ej I01 préstamo.runtimeconfig.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\bin\Debug\net5.0\Ej I01 préstamo.runtimeconfig.dev.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\bin\Debug\net5.0\Ej I01 préstamo.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\bin\Debug\net5.0\Ej I01 préstamo.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\obj\Debug\net5.0\Ej I01 préstamo.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\obj\Debug\net5.0\Ej I01 préstamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\obj\Debug\net5.0\Ej I01 préstamo.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\obj\Debug\net5.0\Ej I01 préstamo.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\obj\Debug\net5.0\Ej I01 préstamo.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\obj\Debug\net5.0\Ej I01 préstamo.csproj.CopyComplete
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\obj\Debug\net5.0\Ej I01 préstamo.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\obj\Debug\net5.0\refint\Ej I01 préstamo.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\obj\Debug\net5.0\Ej I01 préstamo.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\obj\Debug\net5.0\Ej I01 préstamo.genruntimeconfig.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 préstamo\Ej I01 préstamo\obj\Debug\net5.0\ref\Ej I01 préstamo.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ejr1\\Ejr1.csproj",
+      "projectUniqueName": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ejr1\\Ejr1.csproj",
       "projectName": "Ejr1",
-      "projectPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ejr1\\Ejr1.csproj",
+      "projectPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ejr1\\Ejr1.csproj",
       "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ejr1\\obj\\",
+      "outputPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ejr1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",

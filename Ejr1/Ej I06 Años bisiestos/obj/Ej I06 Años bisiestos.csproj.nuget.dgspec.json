@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ej I06 Años bisiestos\\Ej I06 Años bisiestos.csproj": {}
+    "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ej I06 Años bisiestos\\Ej I06 Años bisiestos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ej I06 Años bisiestos\\Ej I06 Años bisiestos.csproj": {
+    "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ej I06 Años bisiestos\\Ej I06 Años bisiestos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ej I06 Años bisiestos\\Ej I06 Años bisiestos.csproj",
+        "projectUniqueName": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ej I06 Años bisiestos\\Ej I06 Años bisiestos.csproj",
         "projectName": "Ej I06 Años bisiestos",
-        "projectPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ej I06 Años bisiestos\\Ej I06 Años bisiestos.csproj",
+        "projectPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ej I06 Años bisiestos\\Ej I06 Años bisiestos.csproj",
         "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ej I06 Años bisiestos\\obj\\",
+        "outputPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ej I06 Años bisiestos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",

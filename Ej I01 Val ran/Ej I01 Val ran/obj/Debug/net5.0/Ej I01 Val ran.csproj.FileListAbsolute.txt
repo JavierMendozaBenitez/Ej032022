@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\bin\Debug\net5.0\Ej I01 Val ran.exe
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\bin\Debug\net5.0\Ej I01 Val ran.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\bin\Debug\net5.0\Ej I01 Val ran.runtimeconfig.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\bin\Debug\net5.0\Ej I01 Val ran.runtimeconfig.dev.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\bin\Debug\net5.0\Ej I01 Val ran.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\bin\Debug\net5.0\Ej I01 Val ran.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\obj\Debug\net5.0\Ej I01 Val ran.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\obj\Debug\net5.0\Ej I01 Val ran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\obj\Debug\net5.0\Ej I01 Val ran.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\obj\Debug\net5.0\Ej I01 Val ran.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\obj\Debug\net5.0\Ej I01 Val ran.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\obj\Debug\net5.0\Ej I01 Val ran.csproj.CopyComplete
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\obj\Debug\net5.0\Ej I01 Val ran.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\obj\Debug\net5.0\refint\Ej I01 Val ran.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\obj\Debug\net5.0\Ej I01 Val ran.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\obj\Debug\net5.0\Ej I01 Val ran.genruntimeconfig.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Val ran\Ej I01 Val ran\obj\Debug\net5.0\ref\Ej I01 Val ran.dll

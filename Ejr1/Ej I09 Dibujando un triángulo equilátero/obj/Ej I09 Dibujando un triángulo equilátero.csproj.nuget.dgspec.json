@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ej I09 Dibujando un triángulo equilátero\\Ej I09 Dibujando un triángulo equilátero.csproj": {}
+    "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ej I09 Dibujando un triángulo equilátero\\Ej I09 Dibujando un triángulo equilátero.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ej I09 Dibujando un triángulo equilátero\\Ej I09 Dibujando un triángulo equilátero.csproj": {
+    "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ej I09 Dibujando un triángulo equilátero\\Ej I09 Dibujando un triángulo equilátero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ej I09 Dibujando un triángulo equilátero\\Ej I09 Dibujando un triángulo equilátero.csproj",
+        "projectUniqueName": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ej I09 Dibujando un triángulo equilátero\\Ej I09 Dibujando un triángulo equilátero.csproj",
         "projectName": "Ej I09 Dibujando un triángulo equilátero",
-        "projectPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ej I09 Dibujando un triángulo equilátero\\Ej I09 Dibujando un triángulo equilátero.csproj",
+        "projectPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ej I09 Dibujando un triángulo equilátero\\Ej I09 Dibujando un triángulo equilátero.csproj",
         "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ejer\\Ejr1\\Ej I09 Dibujando un triángulo equilátero\\obj\\",
+        "outputPath": "C:\\Users\\Javier\\Documents\\Técnico Universitario en Programación\\Tercer Cuatri 03-2022\\Labo Prog II 22\\Ej032022\\Ejr1\\Ej I09 Dibujando un triángulo equilátero\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
