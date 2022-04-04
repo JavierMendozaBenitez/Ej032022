@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Biblioteca
 {
-    internal class Validador
+    public static class Validador
     {
-        static bool Validar (int valor, int min, int max)
+        public static bool Validar (int valor, int min, int max)
         {
             bool retorno = false;
 
-            if (valor > min || valor < max)
+            if (valor > min && valor < max)
             {
                 retorno = true;
             }

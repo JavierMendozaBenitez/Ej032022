@@ -1,0 +1,16 @@
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\bin\Debug\net5.0\Ej I02 Des cont.exe
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\bin\Debug\net5.0\Ej I02 Des cont.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\bin\Debug\net5.0\Ej I02 Des cont.runtimeconfig.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\bin\Debug\net5.0\Ej I02 Des cont.runtimeconfig.dev.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\bin\Debug\net5.0\Ej I02 Des cont.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\bin\Debug\net5.0\Ej I02 Des cont.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\obj\Debug\net5.0\Ej I02 Des cont.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\obj\Debug\net5.0\Ej I02 Des cont.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\obj\Debug\net5.0\Ej I02 Des cont.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\obj\Debug\net5.0\Ej I02 Des cont.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\obj\Debug\net5.0\Ej I02 Des cont.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\obj\Debug\net5.0\Ej I02 Des cont.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\obj\Debug\net5.0\refint\Ej I02 Des cont.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\obj\Debug\net5.0\Ej I02 Des cont.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\obj\Debug\net5.0\Ej I02 Des cont.genruntimeconfig.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Des cont\Ej I02 Des cont\obj\Debug\net5.0\ref\Ej I02 Des cont.dll
