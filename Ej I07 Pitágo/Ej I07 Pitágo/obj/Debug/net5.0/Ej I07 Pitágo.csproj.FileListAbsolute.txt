@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\bin\Debug\net5.0\Ej I07 Pitágo.exe
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\bin\Debug\net5.0\Ej I07 Pitágo.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\bin\Debug\net5.0\Ej I07 Pitágo.runtimeconfig.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\bin\Debug\net5.0\Ej I07 Pitágo.runtimeconfig.dev.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\bin\Debug\net5.0\Ej I07 Pitágo.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\bin\Debug\net5.0\Ej I07 Pitágo.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\obj\Debug\net5.0\Ej I07 Pitágo.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\obj\Debug\net5.0\Ej I07 Pitágo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\obj\Debug\net5.0\Ej I07 Pitágo.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\obj\Debug\net5.0\Ej I07 Pitágo.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\obj\Debug\net5.0\Ej I07 Pitágo.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\obj\Debug\net5.0\Ej I07 Pitágo.csproj.CopyComplete
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\obj\Debug\net5.0\Ej I07 Pitágo.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\obj\Debug\net5.0\refint\Ej I07 Pitágo.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\obj\Debug\net5.0\Ej I07 Pitágo.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\obj\Debug\net5.0\Ej I07 Pitágo.genruntimeconfig.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I07 Pitágo\Ej I07 Pitágo\obj\Debug\net5.0\ref\Ej I07 Pitágo.dll

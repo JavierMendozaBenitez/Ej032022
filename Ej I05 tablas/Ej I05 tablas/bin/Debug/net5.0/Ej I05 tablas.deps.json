@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ej I05 tablas/1.0.0": {
+        "dependencies": {
+          "Bilblioteca": "1.0.0"
+        },
+        "runtime": {
+          "Ej I05 tablas.dll": {}
+        }
+      },
+      "Bilblioteca/1.0.0": {
+        "runtime": {
+          "Bilblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ej I05 tablas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bilblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

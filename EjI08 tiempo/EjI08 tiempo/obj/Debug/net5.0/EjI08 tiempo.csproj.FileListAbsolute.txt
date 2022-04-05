@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\bin\Debug\net5.0\EjI08 tiempo.exe
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\bin\Debug\net5.0\EjI08 tiempo.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\bin\Debug\net5.0\EjI08 tiempo.runtimeconfig.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\bin\Debug\net5.0\EjI08 tiempo.runtimeconfig.dev.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\bin\Debug\net5.0\EjI08 tiempo.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\bin\Debug\net5.0\EjI08 tiempo.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\obj\Debug\net5.0\EjI08 tiempo.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\obj\Debug\net5.0\EjI08 tiempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\obj\Debug\net5.0\EjI08 tiempo.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\obj\Debug\net5.0\EjI08 tiempo.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\obj\Debug\net5.0\EjI08 tiempo.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\obj\Debug\net5.0\EjI08 tiempo.csproj.CopyComplete
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\obj\Debug\net5.0\EjI08 tiempo.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\obj\Debug\net5.0\refint\EjI08 tiempo.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\obj\Debug\net5.0\EjI08 tiempo.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\obj\Debug\net5.0\EjI08 tiempo.genruntimeconfig.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\EjI08 tiempo\EjI08 tiempo\obj\Debug\net5.0\ref\EjI08 tiempo.dll

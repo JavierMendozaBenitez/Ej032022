@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\bin\Debug\net5.0\Ej I05 tablas.exe
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\bin\Debug\net5.0\Ej I05 tablas.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\bin\Debug\net5.0\Ej I05 tablas.runtimeconfig.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\bin\Debug\net5.0\Ej I05 tablas.runtimeconfig.dev.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\bin\Debug\net5.0\Ej I05 tablas.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\bin\Debug\net5.0\Ej I05 tablas.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\bin\Debug\net5.0\Bilblioteca.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\bin\Debug\net5.0\Bilblioteca.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\obj\Debug\net5.0\Ej I05 tablas.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\obj\Debug\net5.0\Ej I05 tablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\obj\Debug\net5.0\Ej I05 tablas.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\obj\Debug\net5.0\Ej I05 tablas.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\obj\Debug\net5.0\Ej I05 tablas.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\obj\Debug\net5.0\Ej I05 tablas.csproj.CopyComplete
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\obj\Debug\net5.0\Ej I05 tablas.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\obj\Debug\net5.0\refint\Ej I05 tablas.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\obj\Debug\net5.0\Ej I05 tablas.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\obj\Debug\net5.0\Ej I05 tablas.genruntimeconfig.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\obj\Debug\net5.0\ref\Ej I05 tablas.dll

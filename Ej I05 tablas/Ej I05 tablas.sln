@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej I05 tablas", "Ej I05 tablas\Ej I05 tablas.csproj", "{5BC10768-B3BC-47E6-AC90-3E3F591DCDC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bilblioteca", "Bilblioteca\Bilblioteca.csproj", "{953B94F3-3AD0-4326-A020-84E36C45AE13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BC10768-B3BC-47E6-AC90-3E3F591DCDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC10768-B3BC-47E6-AC90-3E3F591DCDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC10768-B3BC-47E6-AC90-3E3F591DCDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC10768-B3BC-47E6-AC90-3E3F591DCDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953B94F3-3AD0-4326-A020-84E36C45AE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953B94F3-3AD0-4326-A020-84E36C45AE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953B94F3-3AD0-4326-A020-84E36C45AE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953B94F3-3AD0-4326-A020-84E36C45AE13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77F75E7D-2364-4DA0-BA77-51C80D53F56B}
+	EndGlobalSection
+EndGlobal

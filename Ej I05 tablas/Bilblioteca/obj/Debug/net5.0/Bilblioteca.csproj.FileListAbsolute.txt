@@ -1,0 +1,12 @@
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Bilblioteca\bin\Debug\net5.0\Bilblioteca.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Bilblioteca\bin\Debug\net5.0\Bilblioteca.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Bilblioteca\bin\Debug\net5.0\Bilblioteca.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Bilblioteca\obj\Debug\net5.0\Bilblioteca.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Bilblioteca\obj\Debug\net5.0\Bilblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Bilblioteca\obj\Debug\net5.0\Bilblioteca.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Bilblioteca\obj\Debug\net5.0\Bilblioteca.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Bilblioteca\obj\Debug\net5.0\Bilblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Bilblioteca\obj\Debug\net5.0\Bilblioteca.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Bilblioteca\obj\Debug\net5.0\refint\Bilblioteca.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Bilblioteca\obj\Debug\net5.0\Bilblioteca.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Bilblioteca\obj\Debug\net5.0\ref\Bilblioteca.dll

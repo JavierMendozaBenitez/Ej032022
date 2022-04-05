@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\bin\Debug\net5.0\Ej I04 calc.exe
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\bin\Debug\net5.0\Ej I04 calc.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\bin\Debug\net5.0\Ej I04 calc.runtimeconfig.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\bin\Debug\net5.0\Ej I04 calc.runtimeconfig.dev.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\bin\Debug\net5.0\Ej I04 calc.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\bin\Debug\net5.0\Ej I04 calc.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\obj\Debug\net5.0\Ej I04 calc.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\obj\Debug\net5.0\Ej I04 calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\obj\Debug\net5.0\Ej I04 calc.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\obj\Debug\net5.0\Ej I04 calc.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\obj\Debug\net5.0\Ej I04 calc.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\obj\Debug\net5.0\Ej I04 calc.csproj.CopyComplete
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\obj\Debug\net5.0\Ej I04 calc.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\obj\Debug\net5.0\refint\Ej I04 calc.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\obj\Debug\net5.0\Ej I04 calc.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\obj\Debug\net5.0\Ej I04 calc.genruntimeconfig.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 calc\Ej I04 calc\obj\Debug\net5.0\ref\Ej I04 calc.dll

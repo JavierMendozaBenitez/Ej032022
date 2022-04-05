@@ -6,4 +6,8 @@
     <RootNamespace>Ej_I03_Co_bin</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteca\Biblioteca.csproj" />
+  </ItemGroup>
+
 </Project>
