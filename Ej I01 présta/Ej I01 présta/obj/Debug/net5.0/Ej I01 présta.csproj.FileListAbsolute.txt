@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\bin\Debug\net5.0\Ej I01 présta.exe
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\bin\Debug\net5.0\Ej I01 présta.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\bin\Debug\net5.0\Ej I01 présta.runtimeconfig.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\bin\Debug\net5.0\Ej I01 présta.runtimeconfig.dev.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\bin\Debug\net5.0\Ej I01 présta.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\bin\Debug\net5.0\Ej I01 présta.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\obj\Debug\net5.0\Ej I01 présta.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\obj\Debug\net5.0\Ej I01 présta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\obj\Debug\net5.0\Ej I01 présta.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\obj\Debug\net5.0\Ej I01 présta.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\obj\Debug\net5.0\Ej I01 présta.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\obj\Debug\net5.0\Ej I01 présta.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\obj\Debug\net5.0\refint\Ej I01 présta.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\obj\Debug\net5.0\Ej I01 présta.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\obj\Debug\net5.0\Ej I01 présta.genruntimeconfig.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\obj\Debug\net5.0\ref\Ej I01 présta.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 présta\Ej I01 présta\obj\Debug\net5.0\Ej I01 présta.csproj.CopyComplete
