@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ej_I05_tablas
+build_property.ProjectDir = C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I05 tablas\Ej I05 tablas\

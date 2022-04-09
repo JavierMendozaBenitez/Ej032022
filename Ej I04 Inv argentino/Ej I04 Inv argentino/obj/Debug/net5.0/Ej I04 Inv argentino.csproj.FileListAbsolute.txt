@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\bin\Debug\net5.0\Ej I04 Inv argentino.exe
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\bin\Debug\net5.0\Ej I04 Inv argentino.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\bin\Debug\net5.0\Ej I04 Inv argentino.runtimeconfig.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\bin\Debug\net5.0\Ej I04 Inv argentino.runtimeconfig.dev.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\bin\Debug\net5.0\Ej I04 Inv argentino.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\bin\Debug\net5.0\Ej I04 Inv argentino.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\obj\Debug\net5.0\Ej I04 Inv argentino.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\obj\Debug\net5.0\Ej I04 Inv argentino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\obj\Debug\net5.0\Ej I04 Inv argentino.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\obj\Debug\net5.0\Ej I04 Inv argentino.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\obj\Debug\net5.0\Ej I04 Inv argentino.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\obj\Debug\net5.0\Ej I04 Inv argentino.csproj.CopyComplete
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\obj\Debug\net5.0\Ej I04 Inv argentino.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\obj\Debug\net5.0\refint\Ej I04 Inv argentino.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\obj\Debug\net5.0\Ej I04 Inv argentino.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\obj\Debug\net5.0\Ej I04 Inv argentino.genruntimeconfig.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I04 Inv argentino\Ej I04 Inv argentino\obj\Debug\net5.0\ref\Ej I04 Inv argentino.dll
