@@ -6,4 +6,8 @@
     <RootNamespace>Ej_A01_navegación</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteca\Biblioteca.csproj" />
+  </ItemGroup>
+
 </Project>
