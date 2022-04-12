@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\bin\Debug\net5.0\Ej A02 veterinaria.exe
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\bin\Debug\net5.0\Ej A02 veterinaria.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\bin\Debug\net5.0\Ej A02 veterinaria.runtimeconfig.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\bin\Debug\net5.0\Ej A02 veterinaria.runtimeconfig.dev.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\bin\Debug\net5.0\Ej A02 veterinaria.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\bin\Debug\net5.0\Ej A02 veterinaria.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\obj\Debug\net5.0\Ej A02 veterinaria.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\obj\Debug\net5.0\Ej A02 veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\obj\Debug\net5.0\Ej A02 veterinaria.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\obj\Debug\net5.0\Ej A02 veterinaria.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\obj\Debug\net5.0\Ej A02 veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\obj\Debug\net5.0\Ej A02 veterinaria.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\obj\Debug\net5.0\refint\Ej A02 veterinaria.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\obj\Debug\net5.0\Ej A02 veterinaria.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\obj\Debug\net5.0\Ej A02 veterinaria.genruntimeconfig.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\obj\Debug\net5.0\ref\Ej A02 veterinaria.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej A02 veterinaria\Ej A02 veterinaria\obj\Debug\net5.0\Ej A02 veterinaria.csproj.CopyComplete
