@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej I02 Cotizador", "Ej I02 Cotizador\Ej I02 Cotizador.csproj", "{ECD69030-A6B6-40C1-80DF-3F35AAD1B3B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billetes", "Biblioteca\Billetes.csproj", "{FE7FD4D4-E74D-486B-8CC8-EC463F0DEFB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ECD69030-A6B6-40C1-80DF-3F35AAD1B3B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECD69030-A6B6-40C1-80DF-3F35AAD1B3B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECD69030-A6B6-40C1-80DF-3F35AAD1B3B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE7FD4D4-E74D-486B-8CC8-EC463F0DEFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7FD4D4-E74D-486B-8CC8-EC463F0DEFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7FD4D4-E74D-486B-8CC8-EC463F0DEFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7FD4D4-E74D-486B-8CC8-EC463F0DEFB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

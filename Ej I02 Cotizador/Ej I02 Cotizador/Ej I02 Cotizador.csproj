@@ -6,4 +6,8 @@
     <RootNamespace>Ej_I02_Cotizador</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteca\Billetes.csproj" />
+  </ItemGroup>
+
 </Project>
