@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\bin\Debug\net5.0\Ej C02 estantería.exe
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\bin\Debug\net5.0\Ej C02 estantería.deps.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\bin\Debug\net5.0\Ej C02 estantería.runtimeconfig.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\bin\Debug\net5.0\Ej C02 estantería.runtimeconfig.dev.json
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\bin\Debug\net5.0\Ej C02 estantería.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\bin\Debug\net5.0\Ej C02 estantería.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\obj\Debug\net5.0\Ej C02 estantería.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\obj\Debug\net5.0\Ej C02 estantería.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\obj\Debug\net5.0\Ej C02 estantería.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\obj\Debug\net5.0\Ej C02 estantería.AssemblyInfo.cs
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\obj\Debug\net5.0\Ej C02 estantería.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\obj\Debug\net5.0\Ej C02 estantería.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\obj\Debug\net5.0\refint\Ej C02 estantería.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\obj\Debug\net5.0\Ej C02 estantería.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\obj\Debug\net5.0\Ej C02 estantería.genruntimeconfig.cache
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\obj\Debug\net5.0\ref\Ej C02 estantería.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\Técnico Universitario en Programación\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej C02 estantería\Ej C02 estantería\obj\Debug\net5.0\Ej C02 estantería.csproj.CopyComplete

@@ -1,0 +1,21 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\bin\Debug\net5.0-windows\FormRegistro.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\bin\Debug\net5.0-windows\FormRegistro.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\bin\Debug\net5.0-windows\FormRegistro.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\bin\Debug\net5.0-windows\FormRegistro.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\bin\Debug\net5.0-windows\FormRegistro.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\bin\Debug\net5.0-windows\FormRegistro.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\bin\Debug\net5.0-windows\Ej I02 Registrate.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\bin\Debug\net5.0-windows\Ej I02 Registrate.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\obj\Debug\net5.0-windows\FormRegistro.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\obj\Debug\net5.0-windows\FormRegistro.Form1.resources
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\obj\Debug\net5.0-windows\FormRegistro.csproj.GenerateResource.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\obj\Debug\net5.0-windows\FormRegistro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\obj\Debug\net5.0-windows\FormRegistro.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\obj\Debug\net5.0-windows\FormRegistro.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\obj\Debug\net5.0-windows\FormRegistro.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\obj\Debug\net5.0-windows\FormRegistro.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\obj\Debug\net5.0-windows\FormRegistro.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\obj\Debug\net5.0-windows\refint\FormRegistro.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\obj\Debug\net5.0-windows\FormRegistro.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\obj\Debug\net5.0-windows\FormRegistro.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I02 Registrate\FormRegistro\obj\Debug\net5.0-windows\ref\FormRegistro.dll
