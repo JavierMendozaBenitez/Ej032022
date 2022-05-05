@@ -1,0 +1,24 @@
+C:\Users\Javier\source\repos\Ejercicio38\Entidades38\bin\Debug\net5.0\Entidades38.deps.json
+C:\Users\Javier\source\repos\Ejercicio38\Entidades38\bin\Debug\net5.0\Entidades38.dll
+C:\Users\Javier\source\repos\Ejercicio38\Entidades38\bin\Debug\net5.0\ref\Entidades38.dll
+C:\Users\Javier\source\repos\Ejercicio38\Entidades38\bin\Debug\net5.0\Entidades38.pdb
+C:\Users\Javier\source\repos\Ejercicio38\Entidades38\obj\Debug\net5.0\Entidades38.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\Ejercicio38\Entidades38\obj\Debug\net5.0\Entidades38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\Ejercicio38\Entidades38\obj\Debug\net5.0\Entidades38.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\Ejercicio38\Entidades38\obj\Debug\net5.0\Entidades38.AssemblyInfo.cs
+C:\Users\Javier\source\repos\Ejercicio38\Entidades38\obj\Debug\net5.0\Entidades38.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Ejercicio38\Entidades38\obj\Debug\net5.0\Entidades38.dll
+C:\Users\Javier\source\repos\Ejercicio38\Entidades38\obj\Debug\net5.0\ref\Entidades38.dll
+C:\Users\Javier\source\repos\Ejercicio38\Entidades38\obj\Debug\net5.0\Entidades38.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 sobrescribiendo\Entidades38\bin\Debug\net5.0\Entidades38.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 sobrescribiendo\Entidades38\bin\Debug\net5.0\Entidades38.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 sobrescribiendo\Entidades38\bin\Debug\net5.0\Entidades38.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 sobrescribiendo\Entidades38\obj\Debug\net5.0\Entidades38.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 sobrescribiendo\Entidades38\obj\Debug\net5.0\Entidades38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 sobrescribiendo\Entidades38\obj\Debug\net5.0\Entidades38.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 sobrescribiendo\Entidades38\obj\Debug\net5.0\Entidades38.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 sobrescribiendo\Entidades38\obj\Debug\net5.0\Entidades38.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 sobrescribiendo\Entidades38\obj\Debug\net5.0\Entidades38.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 sobrescribiendo\Entidades38\obj\Debug\net5.0\refint\Entidades38.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 sobrescribiendo\Entidades38\obj\Debug\net5.0\Entidades38.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 sobrescribiendo\Entidades38\obj\Debug\net5.0\ref\Entidades38.dll

@@ -1,0 +1,16 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Núm loc II\Ej I01 Núm loc II\obj\Debug\net5.0\Ej I01 Núm loc II.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Núm loc II\Ej I01 Núm loc II\obj\Debug\net5.0\Ej I01 Núm loc II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Núm loc II\Ej I01 Núm loc II\obj\Debug\net5.0\Ej I01 Núm loc II.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Núm loc II\Ej I01 Núm loc II\obj\Debug\net5.0\Ej I01 Núm loc II.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Núm loc II\Ej I01 Núm loc II\obj\Debug\net5.0\Ej I01 Núm loc II.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Núm loc II\Ej I01 Núm loc II\bin\Debug\net5.0\Ej I01 Núm loc II.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Núm loc II\Ej I01 Núm loc II\bin\Debug\net5.0\Ej I01 Núm loc II.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Núm loc II\Ej I01 Núm loc II\bin\Debug\net5.0\Ej I01 Núm loc II.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Núm loc II\Ej I01 Núm loc II\bin\Debug\net5.0\Ej I01 Núm loc II.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Núm loc II\Ej I01 Núm loc II\bin\Debug\net5.0\Ej I01 Núm loc II.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Núm loc II\Ej I01 Núm loc II\bin\Debug\net5.0\Ej I01 Núm loc II.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Núm loc II\Ej I01 Núm loc II\obj\Debug\net5.0\Ej I01 Núm loc II.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Núm loc II\Ej I01 Núm loc II\obj\Debug\net5.0\refint\Ej I01 Núm loc II.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Núm loc II\Ej I01 Núm loc II\obj\Debug\net5.0\Ej I01 Núm loc II.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Núm loc II\Ej I01 Núm loc II\obj\Debug\net5.0\Ej I01 Núm loc II.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Ej032022\Ej I01 Núm loc II\Ej I01 Núm loc II\obj\Debug\net5.0\ref\Ej I01 Núm loc II.dll
