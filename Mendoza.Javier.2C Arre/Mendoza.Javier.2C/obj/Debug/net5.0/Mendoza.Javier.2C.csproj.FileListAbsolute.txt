@@ -1,0 +1,24 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C - copia\Mendoza.Javier.2C\bin\Debug\net5.0\Mendoza.Javier.2C.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C - copia\Mendoza.Javier.2C\bin\Debug\net5.0\Mendoza.Javier.2C.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C - copia\Mendoza.Javier.2C\bin\Debug\net5.0\Mendoza.Javier.2C.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C - copia\Mendoza.Javier.2C\obj\Debug\net5.0\Mendoza.Javier.2C.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C - copia\Mendoza.Javier.2C\obj\Debug\net5.0\Mendoza.Javier.2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C - copia\Mendoza.Javier.2C\obj\Debug\net5.0\Mendoza.Javier.2C.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C - copia\Mendoza.Javier.2C\obj\Debug\net5.0\Mendoza.Javier.2C.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C - copia\Mendoza.Javier.2C\obj\Debug\net5.0\Mendoza.Javier.2C.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C - copia\Mendoza.Javier.2C\obj\Debug\net5.0\Mendoza.Javier.2C.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C - copia\Mendoza.Javier.2C\obj\Debug\net5.0\refint\Mendoza.Javier.2C.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C - copia\Mendoza.Javier.2C\obj\Debug\net5.0\Mendoza.Javier.2C.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C - copia\Mendoza.Javier.2C\obj\Debug\net5.0\ref\Mendoza.Javier.2C.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C Arre\Mendoza.Javier.2C\bin\Debug\net5.0\Mendoza.Javier.2C.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C Arre\Mendoza.Javier.2C\bin\Debug\net5.0\Mendoza.Javier.2C.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C Arre\Mendoza.Javier.2C\bin\Debug\net5.0\Mendoza.Javier.2C.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C Arre\Mendoza.Javier.2C\obj\Debug\net5.0\Mendoza.Javier.2C.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C Arre\Mendoza.Javier.2C\obj\Debug\net5.0\Mendoza.Javier.2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C Arre\Mendoza.Javier.2C\obj\Debug\net5.0\Mendoza.Javier.2C.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C Arre\Mendoza.Javier.2C\obj\Debug\net5.0\Mendoza.Javier.2C.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C Arre\Mendoza.Javier.2C\obj\Debug\net5.0\Mendoza.Javier.2C.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C Arre\Mendoza.Javier.2C\obj\Debug\net5.0\Mendoza.Javier.2C.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C Arre\Mendoza.Javier.2C\obj\Debug\net5.0\refint\Mendoza.Javier.2C.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C Arre\Mendoza.Javier.2C\obj\Debug\net5.0\Mendoza.Javier.2C.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 03-2022\Labo Prog II 22\Mendoza.Javier.2C Arre\Mendoza.Javier.2C\obj\Debug\net5.0\ref\Mendoza.Javier.2C.dll
